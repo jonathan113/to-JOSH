@@ -1,0 +1,39 @@
+body{
+
+  background-image: radial-gradient(circle, blue, aqua);
+  text-align: center;
+
+}
+.title{
+  font-size: 100px;
+  color: white;
+}
+.href{
+  font-size: 50px;
+  color: white;
+}
+#button{
+    text-decoration: none;
+    padding: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: orchid;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+
+  }
+  #txt{
+    text-decoration: none;
+    padding: 10px;
+    border-color: orchid;
+    margin: 5px;
+  }
+#pass{
+  font-size: 30px;
+  margin-top: 7px;
+  margin: 5px;
+}
+#img{
+  margin: 10px;
+}
