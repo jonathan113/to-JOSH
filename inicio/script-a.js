@@ -19,23 +19,23 @@ div4.style.visibility = "hidden";
 
 button.onclick = function click1(){
   p.style.visibility = "visible";
-  button.visibility = "hidden";
+  button.style.visibility = "hidden";
 }
 
   button1.onclick = function b1(){
     div1.style.visibility = "visible";
-    button1.visibility = "hidden";
+    button1.style.visibility = "hidden";
   }
 
 button2.onclick = function ba(){
 div2.style.visibility = 'visible';
-  button2.visibility = "hidden";
+  button2.style.visibility = "hidden";
 }
 button3.onclick = function click1(){
   div4.style.visibility = "visible";
-  button3.visibility = "hidden";
+  button3.style.visibility = "hidden";
 }
 love.onclick = function click1(){
   div3.style.visibility = "visible";
-  love.visibility = "hidden";
+  love.style.visibility = "hidden";
 }
