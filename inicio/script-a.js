@@ -20,6 +20,7 @@ div4.style.visibility = "hidden";
 button.onclick = function click1(){
   p.style.visibility = "visible";
   button.style.visibility = "hidden";
+  console.log(rta);
 }
 
   button1.onclick = function b1(){
