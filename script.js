@@ -1,5 +1,5 @@
 let txt = document.getElementById("txt");
-let button = document.getElementById("button");
+let button = document.getElementById("buttons");
 let href = document.getElementById('href');
 let label = document.getElementById('label');
 let rta;
