@@ -8,9 +8,7 @@ let div3 = document.getElementById('b');
 let div4 = document.getElementById('c');
 let button3 = document.getElementById('bb');
 let div = document.getElementById('love');
-let t = document.getElementById('txt');
-let BT = document.getElementById('buttons');
-let R;
+
 
 p.style.visibility = "hidden";
 div1.style.visibility = "hidden";
@@ -19,15 +17,10 @@ div3.style.visibility = "hidden";
 div4.style.visibility = "hidden";
 
 
-BT.onclick = function click(){
-  if(t.value == "iloveyou"){
-    console.log('iloveyou');
-    R = true;
-    
 button.onclick = function click1(){
   p.style.visibility = "visible";
   button.style.visibility = "hidden";
-  console.log(R);
+
 }
 
   button1.onclick = function b1(){
