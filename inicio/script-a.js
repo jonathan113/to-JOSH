@@ -22,7 +22,7 @@ div4.style.visibility = "hidden";
 BT.onclick = function click(){
   if(t.value == "iloveyou"){
     console.log('iloveyou');
-    rta = true;
+    R = true;
     
 button.onclick = function click1(){
   p.style.visibility = "visible";
