@@ -12,16 +12,15 @@ body{
   font-size: 50px;
   color: white;
 }
-#button{
+#buttons{
     text-decoration: none;
     padding: 8px;
     font-weight: 600;
     font-size: 20px;
     color: #ffffff;
-    background-color: orchid;
+    background-color: slategrey;
     border-radius: 6px;
     border: 2px solid #0016b0;
-
   }
   #txt{
     text-decoration: none;
